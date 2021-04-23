@@ -1,0 +1,16 @@
+{
+  "name": "PS5W3bsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/Hellboy-Aaryan.github.io/PS5W3BSITE",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
